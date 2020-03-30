@@ -1,0 +1,13 @@
+{
+  "name": "debriefnodeprobe",
+  "version": "0.0.1",
+  "description": "A light-weight script for monitoring a remote host for performance testing purposes. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
